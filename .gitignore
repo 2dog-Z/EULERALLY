@@ -3,3 +3,14 @@
 
 # WorkBuddy workspace data
 .workbuddy/
+
+# Node / build output
+node_modules/
+dist/
+*.local
+npm-debug.log*
+
+# Test artifacts
+coverage/
+test-results/
+playwright-report/
